@@ -1,6 +1,10 @@
+# This is a UI clone of zerodha
+
+### For large screen 
+[![image of the website for large screen](./images/zerodhaLL.png)]
 
 
-
-![image of the website for large screen] (./images/zerodha(large).png)
+### For small screen
+![image of the website for large screen](images/zerodhaSS.png)
 
 
