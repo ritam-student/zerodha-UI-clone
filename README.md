@@ -1,4 +1,4 @@
-# This is a UI clone of zerodha
+# This is an UI clone of zerodha
 
 ### For large screen 
 [![image of the website for large screen](./images/zerodhaLL.png)]
