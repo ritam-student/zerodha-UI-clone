@@ -42,7 +42,9 @@ nav {
     color: #666666;
 }
 
-
+.options:hover {
+    color: #387ed1;
+}
 
 
 /** libe break */
@@ -76,6 +78,11 @@ nav {
     border: 1px solid rgba(0,0,0,0);
     font-size: 19.7px;
     font-weight: 500;
+}
+
+#signup:hover {
+    background-color: black;
+    cursor: pointer;
 }
 
 /** part 2  */
@@ -127,4 +134,16 @@ nav {
 .last-text {
     margin-right : 5px;
     margin-top: 10px;
+}
+
+
+.last-text:hover {
+    color: #387ed1;
+    cursor: pointer;
+}
+
+
+.hov:hover {
+    color: #387ed1;
+    cursor: pointer;
 }
